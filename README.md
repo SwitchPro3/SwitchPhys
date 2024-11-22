@@ -1,5 +1,7 @@
 **Developed by SwitchPro.**
 
+https://switchphys.gumroad.com/
+
 If you want this on your public server:
 Please DM me on Discord. I don't want to accidentally delete something that people are actively using.
 
