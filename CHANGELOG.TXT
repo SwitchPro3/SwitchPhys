@@ -1,3 +1,11 @@
+12/3/2024
+  -updated Drift fc
+    -steering column flex
+    -lut based LCA adjustment
+    -completely reworked front geo
+    -preload force/travel changes for easier-to-understand setups
+    -and some other things i forgor
+
 11/26/2024
   -updated fc drift to new preload system
   -updated all fc3s to fix inconsistencies in suspensions.ini
