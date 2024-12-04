@@ -1,3 +1,30 @@
+12/4/2024
+  -updated Infini IV
+    -steering column flex
+    -BODY based LCA
+    -redid lca compliance
+
+  -updated Infini III
+    -steering column flex
+    -BODY based LCA
+    -redid lca compliance
+
+  -updated GT-X
+    -steering column flex
+    -BODY based LCA
+    -redid lca compliance
+    -corrected steering rack location
+
+  -updated A-Spec
+    -steering column flex
+    -BODY based LCA
+    -redid lca compliance
+
+  -updated A-Spec tv
+    -steering column flex
+    -BODY based LCA
+    -redid lca compliance
+
 12/3/2024
   -updated Drift fc
     -steering column flex
