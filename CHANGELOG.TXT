@@ -1,3 +1,8 @@
+12/14/2024
+  -updated Drift Fc
+    -Hub Acker adjustment increased
+    -Steer Stops added (adjustable from full lock to like 35-40deg ish)
+
 12/12/2024
   -updated Drift Fc
     -Hub Acker adjustment
