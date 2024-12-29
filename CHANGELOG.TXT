@@ -1,3 +1,28 @@
+12/29/2024
+  -updated Infini IV
+    -SAT changed
+    -Dy Camber Curve changed
+
+  -updated Infini III
+    -SAT changed
+    -Dy Camber Curve changed
+
+  -updated GT-X
+    -SAT changed
+    -Dy Camber Curve changed
+
+  -updated A-Spec
+    -SAT changed
+    -Dy Camber Curve changed
+
+  -updated A-Spec tv
+    -SAT changed
+    -Dy Camber Curve changed
+
+  -updated Drift Fc
+    -SAT changed
+    -Dy Camber Curve changed
+
 12/14/2024
   -updated Drift Fc
     -Hub Acker adjustment increased
