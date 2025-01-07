@@ -1,5 +1,27 @@
 1/4/2025
   -updated Infini IV
+    -Powersteering Changed
+
+  -updated Infini III
+    -Powersteering Changed
+
+  -updated GT-X
+    -Powersteering Changed
+
+  -updated A-Spec
+    -Powersteering Changed
+    -Bug with rear tyres fixed
+
+  -updated A-Spec tv
+    -Powersteering Changed
+    -Bug with rear tyres fixed
+
+  -updated Drift Fc
+    -Powersteering Changed
+    -Bug with rear tyres fixed
+
+1/4/2025
+  -updated Infini IV
     -FRICTION_LIMIT_ANGLE trends changed
 
   -updated Infini III
