@@ -1,3 +1,32 @@
+2/8/2025
+  -updated Infini IV
+    -Tyres changed
+    -Custom Lua Throttle Model
+
+  -updated Infini III
+    -Tyres changed
+    -Custom Lua Throttle Model
+
+  -updated GT-X
+    -Tyres changed
+    -Custom Lua Throttle Model
+
+  -updated A-Spec
+    -Tyres changed
+    -Custom Lua Throttle Model
+
+  -updated A-Spec tv
+    -Tyres changed
+    -Custom Lua Throttle Model
+
+  -updated Drift Fc
+    -Tyres changed
+    -Custom Lua Throttle Model
+
+  -updated Millen Fc
+    -Tyres changed
+    -Custom Lua Throttle Model
+
 1/16/2025
   -updated Infini IV
     -Tyres changed
