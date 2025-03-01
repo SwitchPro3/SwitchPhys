@@ -1,24 +1,31 @@
 2/28/2025
   -updated Infini IV
     -Fixed Brakes
+    -Updated Lua Throttle Model
 
   -updated Infini III
     -Fixed Brakes
+    -Updated Lua Throttle Model
 
   -updated GT-X
     -Fixed Brakes
+    -Updated Lua Throttle Model
 
   -updated A-Spec
     -Fixed Brakes
+    -Updated Lua Throttle Model
 
   -updated A-Spec tv
     -Fixed Brakes
+    -Updated Lua Throttle Model
 
   -updated Drift Fc
     -Fixed Brakes
+    -Updated Lua Throttle Model
 
   -updated Millen Fc
     -Fixed Brakes
+    -Updated Lua Throttle Model
 
 2/8/2025
   -updated Infini IV
