@@ -1,3 +1,25 @@
+2/28/2025
+  -updated Infini IV
+    -Fixed Brakes
+
+  -updated Infini III
+    -Fixed Brakes
+
+  -updated GT-X
+    -Fixed Brakes
+
+  -updated A-Spec
+    -Fixed Brakes
+
+  -updated A-Spec tv
+    -Fixed Brakes
+
+  -updated Drift Fc
+    -Fixed Brakes
+
+  -updated Millen Fc
+    -Fixed Brakes
+
 2/8/2025
   -updated Infini IV
     -Tyres changed
