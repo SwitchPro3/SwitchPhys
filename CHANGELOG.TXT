@@ -1,24 +1,31 @@
 3/12/2025
   -updated Infini IV
     -Actually Fixed Brakes
+    -Removed Column Flex
 
   -updated Infini III
     -Actually Fixed Brakes
+    -Removed Column Flex
 
   -updated GT-X
     -Actually Fixed Brakes
+    -Removed Column Flex
 
   -updated A-Spec
     -Actually Fixed Brakes
+    -Removed Column Flex
 
   -updated A-Spec tv
     -Actually Fixed Brakes
+    -Removed Column Flex
 
   -updated Drift Fc
     -Actually Fixed Brakes
+    -Removed Column Flex
 
   -updated Millen Fc
     -Actually Fixed Brakes
+    -Removed Column Flex
 
 2/28/2025
   -updated Infini IV
