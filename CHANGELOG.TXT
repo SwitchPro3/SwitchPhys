@@ -1,3 +1,25 @@
+4/2/2025
+  -updated Infini IV
+    -Changed Throttle Model
+
+  -updated Infini III
+    -Changed Throttle Model
+
+  -updated GT-X
+    -Changed Throttle Model
+
+  -updated A-Spec
+    -Changed Throttle Model
+
+  -updated A-Spec tv
+    -Changed Throttle Model
+
+  -updated Drift Fc
+    -Changed Throttle Model
+
+  -updated Millen Fc
+    -Changed Throttle Model
+
 3/12/2025
   -updated Infini IV
     -Actually Fixed Brakes
