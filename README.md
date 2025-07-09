@@ -26,4 +26,4 @@ To view a copy of this license, visit https://creativecommons.org/licenses/by-nc
 Please respect my wishes.
 -SwitchPro3 (switchpro on discord)
 
-Use CSP 0.24+
+Use CSP 0.2.11+
