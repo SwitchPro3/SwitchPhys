@@ -14,7 +14,7 @@ Please DM me on Discord. I want to help you.
 
 If you have any queries, contact me on my official Discord server or my DMs.
 
-I do commissions, I don't have set rates yet, and I'm willing to be flexible with your budget.
+Commissions are open. Negotiable rates, contact for morre info.
 I also do requests, requests come after all commissions and personal works, Don't expect anything done quickly.
 
 My goal is to make as accurate physics as possible and to be accessible to the community. 
