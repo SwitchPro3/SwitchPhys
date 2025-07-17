@@ -1,3 +1,25 @@
+7/17/2025
+  -updated Infini IV
+    -Tyre Heat/SAT/Load Curve Update
+
+  -updated Infini III
+    -Tyre Heat/SAT/Load Curve Update
+
+  -updated GT-X
+    -Tyre Heat/SAT/Load Curve Update
+
+  -updated A-Spec
+    -Tyre Heat/SAT/Load Curve Update
+
+  -updated A-Spec tv
+    -Tyre Heat/SAT/Load Curve Update
+
+  -updated Drift Fc
+    -Tyre Heat/SAT/Load Curve Update
+
+  -updated Millen Fc
+    -Tyre Heat/SAT/Load Curve Update
+
 4/2/2025
   -updated Infini IV
     -Changed Throttle Model
